@@ -1,3 +1,5 @@
-# Demo System Template
+# MV Design System
 
-This is example of design system based on [/lundegaard/design-system-template](https://github.com/lundegaard/design-system-template) theme.
+Design system pro Portál Veřejné Správy a Portál občana. [MV Design System Web](https://martinsvoboda.github.io/mv-design-system/)
+
+
