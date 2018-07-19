@@ -1,10 +1,10 @@
 ---
 title: MV Design System
 layout: page
-description: Navrhujte weby v souladu s pravidly Ministerstva práce a sociálních věcí.
+description: Navrhujte weby v souladu s pravidly Ministerstva vnitra.
 ---
 
-Tento manuál vám pomůže vytvářet weby tak, aby byly konzistentní s weby Ministerstva práce a sociálních věcí. Neleznete zde pravidla, styly a komponenty.
+Tento manuál vám pomůže vytvářet weby tak, aby byly konzistentní s weby Ministerstva vnitra. Vychází z něho Portál Veřejné Správy a Portál občana. Naleznete zde pravidla, styly a komponenty.
 
 
 ## Začínáme
