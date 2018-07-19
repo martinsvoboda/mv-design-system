@@ -1,0 +1,20 @@
+- title: Úvod
+  url: /
+
+- title: Začínáme
+  group: getting-started
+
+- title: Pravidla
+  group: guidelines
+
+- title: Styly
+  group: styles
+
+- title: Komponenty
+  group: components
+
+- title: Šablony stránek
+  group: page-templates
+
+- title: Ke stažení
+  url: /downloads.html
