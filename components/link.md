@@ -7,11 +7,14 @@ description: Odkazy se používají především jako navigační prvek. Odkazy 
 
 variations:
 - title: Standardní odkazy
-  description: Description of standard normal links...
+  description: Ukázka standardních odkazů
   pattern: link/link-normal.html
 - title: Odkazy s ikonou
-  description: Description of standard links with icon...
-  pattern: link/link-icon.html
+  description: Ukázka odkazů s ikonami
+  pattern: link/link-icon-more.html
+- title: Externí odkazy s ikonou
+  description: Ukázka odkazů s ikonami
+  pattern: link/link-icon-external.html
 ---
 
 ## Použití
