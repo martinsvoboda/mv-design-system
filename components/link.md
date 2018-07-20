@@ -3,9 +3,7 @@ title: Odkazy
 permalink: "/components/link.html"
 layout: component-detail
 group: components
-description: Odkazy se používají především jako navigační prvek. 
-Odkazy mohou také měnit, jak se data zobrazují (zobrazit více, zobrazit vše). 
-Pokud akce provedené uživatelem mají měnit data nebo s nimi manipulovat, použijte tlačítko.
+description: Odkazy se používají především jako navigační prvek. Odkazy mohou také měnit, jak se data zobrazují (zobrazit více, zobrazit vše). Pokud akce provedené uživatelem mají měnit data nebo s nimi manipulovat, použijte tlačítko.
 
 variations:
 - title: Standardní odkazy
