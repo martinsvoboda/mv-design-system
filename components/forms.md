@@ -22,7 +22,11 @@ Všechny formuláře se skládají ze 6 prvků:
 
 [Přepínače (Radio buttons)](/mv-design-system/components/radio-button.html) - se používají, když je seznam dvou nebo více možností, které se navzájem vylučují a uživatel musí zvolit přesně jednu volbu. Jinými slovy, klepnutím na nevybraný přepínač zrušíte volbu libovolného jiného tlačítka v seznamu.
 
-[Zaškrtávací pole (Checkboxes)](/mv-design-system/components/checkbox.html) - se používají, když existují seznamy voleb a uživatel může vybrat libovolný počet možností, včetně nuly, jednoho nebo několika. Jinými slovy, každé zaškrtávací políčko je nezávislé na všech ostatních zaškrtávacích polích v seznamu, takže zaškrtnutím jednoho políčka se nezruší ostatní. Samostatné zaškrtávací políčko nebo přepínač lze použít pro jednu možnost, kterou může uživatel zapnout nebo vypnout.
+ - se používá, když je pouze jedna možnost
+
+[Zaškrtávací pole (Checkboxes)](/mv-design-system/components/checkbox.html) - se používají, když existují seznamy voleb a uživatel může vybrat libovolný počet možností, včetně nuly, jednoho nebo několika. Jinými slovy, každé zaškrtávací políčko je nezávislé na všech ostatních zaškrtávacích polích v seznamu, takže zaškrtnutím jednoho políčka se nezruší ostatní. 
+
+[Samotné zaškrtávací políčko (Toggle)](/mv-design-system/components/toggle.html) nebo přepínač lze použít pro jednu možnost, kterou může uživatel zapnout nebo vypnout.
 
 U polí, ve kterých je požadován jediný výběr a existuje mnoho možností, zvážit použití prvku [Rozbalovací seznam (Select box)](/mv-design-system/components/selectbox.html).
 
@@ -32,6 +36,12 @@ U polí, ve kterých je požadován jediný výběr a existuje mnoho možností,
 
 Buďte co nejpřísnější při navrhování formulářů. Přemýšlejte o každém poli a jakou hodnotu budou údaje poskytovat. Co získáte shromažďováním těchto informací?
 Zjednodušujte formuláře tak, že je přepíšete, případně je také možné rozdělit formulář do více kroků. Při strukturování formuláře zvažte jeho kontext. Pokud spolu informace souvisí je možné je jich na stránku umístit víc. Jednotlivé kroky formuláře musí vždy obsahovat související infromace. Jednotlivé kroky pojmenujte srozumitelně tak, aby z názvu bylo patrné co jeobsahem daného kroku.
+
+### Povinná a nepovinná pole
+
+* Požadujte po uživatelích ty údaje, které jsou bezprostředně potřebné pro spuštění služby. 
+* Pro nepovinné údaje je potřeba tyto pole označit jako nepovinné (nepovinný údaj).
+* Povinná pole se neoznačují hvězdičkou.
 
 #### Začněte tím, že se zeptáte:
 
@@ -68,7 +78,7 @@ Zjednodušujte formuláře tak, že je přepíšete, případně je také možn�
 
 #### Přehled o chybách
 
-Pro uživatele může být těžké zorientovat se na stránce po zobrazení chyby. Obzvláště pokud se vyskytlo více chyb současně. Zobrazujte přehled o chybách v horní části stránky tak, aby byl viditelný, když se stránka aktualizuje a ihned jej dokázala přečíst pomocná zařízení. Je důležité přidat nadpsi, který upozorní uživatele na chybu. V přehledu použijte odkaz, který povede na každé datové pole, kde byla zaznamenána chyba.
+Doporučujeme ověřovat údaje průběžne, ještě před odeslání samotného formuláře. Pro uživatele může být těžké zorientovat se na stránce po zobrazení chyby. Obzvláště pokud se vyskytlo více chyb současně. Zobrazujte přehled o chybách v horní části stránky tak, aby byl viditelný, když se stránka aktualizuje a ihned jej dokázala přečíst pomocná zařízení. Je důležité přidat nadpis, který upozorní uživatele na chybu. V přehledu použijte odkaz, který povede na každé datové pole, kde byla zaznamenána chyba.
 
 #### Zvyýraznění chyb ve formulářích
 
