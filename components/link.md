@@ -16,12 +16,15 @@ variations:
 
 ## Použití
 
-Pro odkazy použijte text, nikoli grafiku nebo ikony
-Odkazy by měly obsahovat maximálně tři slova 
-Text by měl být v souladu se zamýšleným cílem
-Dávejte pozor na odkazy obsahující několik slov. Doporučuje se, aby odkazy byly dostatečně dlouhé, aby byly srozumitelné uživateli, ale byly dostatečně krátké, aby zabránily "text wrapping"
-Vyhněte se výrazu "Klikněte zde", další odkazy na "zde" nebo samotnou webovou adresu (url)
-Místo toho použijte pro tento odkaz smysluplný popis a odpovídající název cílového webu
+Pro odkazy použijte text, nikoli grafiku nebo ikony.
+
+Odkazy by měly obsahovat maximálně tři slova.
+
+Text by měl být v souladu se zamýšleným cílem.
+
+Dávejte pozor na odkazy obsahující několik slov. Doporučuje se, aby odkazy byly dostatečně dlouhé, aby byly srozumitelné uživateli, ale současně byly dostatečně krátké, aby zabránily zalamování.
+
+Vyhněte se výrazu "Klikněte zde", dalším odkazům na "zde" nebo vypisování samotné webové adresy (url). Místo toho použijte pro tento odkaz smysluplný popis a odpovídající název cílového webu
 
 ## Dokumentace
 
