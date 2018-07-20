@@ -13,7 +13,3 @@ variations:
 ## Použití
 
 Datepicker je možné používat buď samostatně nebo ve dvojici - pro události, které mají dobu trvání od - do.
-
-## Příklad použití
-
-![alt text](/mv-design-system/images/akordeon.png "Příklad použítí - akordeon")
