@@ -31,11 +31,12 @@ U polí, ve kterých je požadován jediný výběr a existuje mnoho možností,
 ### Udržte formulář krátký
 
 Buďte co nejpřísnější při navrhování formulářů. Přemýšlejte o každém poli a jakou hodnotu budou údaje poskytovat. Co získáte shromažďováním těchto informací?
+Zjednodušujte formuláře tak, že je přepíšete, případně je také možné rozdělit formulář do více kroků. Při strukturování formuláře zvažte jeho kontext. Pokud spolu informace souvisí je možné je jich na stránku umístit víc. Jednotlivé kroky formuláře musí vždy obsahovat související infromace. Jednotlivé kroky pojmenujte srozumitelně tak, aby z názvu bylo patrné co jeobsahem daného kroku.
 
 #### Začněte tím, že se zeptáte:
 
 * Je to pro nás něco, co je pro nás cenné?
-* Je to taková informace, která je tak cenná, že stojí za to zabránit tomu, aby uživatel pokračoval, pokud se rozhodne neposkytnout?
+* Je to taková informace, která je tak cenná, že stojí za to zabránit tomu, aby uživatel pokračoval, pokud se rozhodne ji neposkytnout?
 
 ### Označení datového pole (Label)
 
@@ -61,7 +62,31 @@ Buďte co nejpřísnější při navrhování formulářů. Přemýšlejte o ka�
 * V případě, že jde o zásadní informace pro vyplnění, nabízí se použití nápovědy.
 * Text napiště jako přímý příkaz bez interpunkce.
 
-## Validace a chybové hlášky
+## Chyby a validace
+
+### Chybové hlášky
+
+#### Přehled o chybách
+
+Pro uživatele může být těžké zorientovat se na stránce po zobrazení chyby. Obzvláště pokud se vyskytlo více chyb současně. Zobrazujte přehled o chybách v horní části stránky tak, aby byl viditelný, když se stránka aktualizuje a ihned jej dokázala přečíst pomocná zařízení. Je důležité přidat nadpsi, který upozorní uživatele na chybu. V přehledu použijte odkaz, který povede na každé datové pole, kde byla zaznamenána chyba.
+
+#### Zvyýraznění chyb ve formulářích
+
+Pro každou chybu:
+
+* Napište zprávu, která pomůže uživateli pochopit, proč se chyba vyskytla a jak by ji měl odstranit.
+* Zprávu vložte do prvku <label> nebo <legend> k dané otázce.
+* Chybovou hlášku zobrazujte pod datovým polem.
+* Pro zvýraznění chybové hlášky použijte červenou barvu.
+
+
+
+
+
+
+
+
+
 
 
 
