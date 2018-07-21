@@ -22,7 +22,7 @@ variations:
 
 ## Typy tlačítek
 
-Existuje několik druhů tlačítek, které se používají lyší v kontextu použití
+Existuje několik druhů tlačítek, které se používají lyší v kontextu použití.
 
 | Typ                   | Použití                                                                    |
 | ----------------------|------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@ Existuje několik druhů tlačítek, které se používají lyší v kontextu po
 
 ## Velikosti tlačítek
 
-Tlačítka můžeme používat v několika různých velikostech. Pro každou stránku je vhodné jiné použití.
+Tlačítka můžeme používat v několika různých velikostech. Pro každou situaci je vhodné jiné použití.
 
 | Velikost              | Použití                                                                    |
 | ----------------------|------------------------------------------------------------------------------|
@@ -49,4 +49,4 @@ Užíváme tam, kde uživatel nemá povolenou danou akci nebo v případě, že 
 
 ![Ukázka použití](/mv-design-system/images/datova_schranka.png "Ukázka použití")
 
-V datové schránce na Portálu občana je použitáý DISABLE BUTTON při psaní zprávy v situaci, kdy akce, kterou tlačítko vyvolává, je právě spuštěná a není ji tedy možné spustit znovu.
+V datové schránce na Portálu občana je použitáý DISABLE BUTTON při psaní zprávy v situaci, kdy akce, kterou tlačítko vyvolává, je právě spuštěná, a není ji tedy možné spustit znovu.
