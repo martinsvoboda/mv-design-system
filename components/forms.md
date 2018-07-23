@@ -11,7 +11,7 @@ description: Formuláře umožňují uživatelům zadávat data pro použití ap
 
 Všechny formuláře se skládají ze 6 prvků:
 
-1. Označení (Label) - Krátké označení, které by mělo uvést jaké informace se mají do pole vyplnit. Zrovnáváme doleva.
+1. Označení (Label) - Krátké označení, které by mělo uvést jaké informace se mají do pole vyplnit. Zarovnáváme doleva.
 2. Pole pro vyplnění (Field)  - Místo kam uživatelé vkládají text.
 3. Zástupný text (Placeholder text) - Dává informaci jak by pole mělo být používáno (např. "Začněte psát"). Používejte pouze tam, kde je třeba objasnění, snažte se jej nepoužívat nadměrně.
 4. Nápověda (Help text) - Poskytuje pomoc při vyplňování pole. Text nápovědy je nepovinný.
@@ -23,8 +23,6 @@ Všechny formuláře se skládají ze 6 prvků:
 ## Logika formulářových prvků
 
 [Přepínače (Radio buttons)](/mv-design-system/components/radio-button.html) - se používají, když je seznam dvou nebo více možností, které se navzájem vylučují a uživatel musí zvolit přesně jednu volbu. Jinými slovy, klepnutím na nevybraný přepínač zrušíte volbu libovolného jiného tlačítka v seznamu.
-
- - se používá, když je pouze jedna možnost
 
 [Zaškrtávací pole (Checkboxes)](/mv-design-system/components/checkbox.html) - se používají, když existují seznamy voleb a uživatel může vybrat libovolný počet možností, včetně nuly, jednoho nebo několika. Jinými slovy, každé zaškrtávací políčko je nezávislé na všech ostatních zaškrtávacích polích v seznamu, takže zaškrtnutím jednoho políčka se nezruší ostatní. 
 
