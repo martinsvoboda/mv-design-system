@@ -18,6 +18,8 @@ Všechny formuláře se skládají ze 6 prvků:
 5. Akce (Action) - Umožnit uživatelům odeslat formulář.
 6. Validace (Validation) - Zajišťuje, aby údaje odeslané uživatelem odpovídaly přijatelným parametrům.
 
+(/mv-design-system/images/form_schema.png)
+
 ## Logika formulářových prvků
 
 [Přepínače (Radio buttons)](/mv-design-system/components/radio-button.html) - se používají, když je seznam dvou nebo více možností, které se navzájem vylučují a uživatel musí zvolit přesně jednu volbu. Jinými slovy, klepnutím na nevybraný přepínač zrušíte volbu libovolného jiného tlačítka v seznamu.
@@ -29,6 +31,8 @@ Všechny formuláře se skládají ze 6 prvků:
 [Samotné zaškrtávací políčko (Toggle)](/mv-design-system/components/toggle.html) nebo přepínač lze použít pro jednu možnost, kterou může uživatel zapnout nebo vypnout.
 
 U polí, ve kterých je požadován jediný výběr a existuje mnoho možností, zvážit použití prvku [Rozbalovací seznam (Select box)](/mv-design-system/components/selectbox.html).
+
+(/mv-design-system/images/schema_inputy.png)
 
 ## Obecná pravidla
 
