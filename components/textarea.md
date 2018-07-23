@@ -1,17 +1,17 @@
 ---
-title: Textové pole
+title: Textová pole
 description: Textová pole umožňují uživatelům vložit data na stránku.
 layout: component-detail
 group: components
 
 
 variations:
-- title: Textové pole
+- title: Jednořádkové textové pole
   description: Jednořádkové textové pole je nejčastějším elementem používaným ve formulářích.
-  pattern: input/input.html
-- title: Víceřádkové pole
-  description: Víceřádkové pole se používají, když uživatel má vložit delší text. 
-  pattern: input/textarea.html
+  pattern: textarea/textarea.html
+- title: Víceřádkové textové pole
+  description: Víceřádkové textové pole se používá, když má uživatel vložit delší text. 
+  pattern: textarea/textarea.html
 ---
 
 ## Použití
@@ -23,13 +23,13 @@ variations:
 
 Používejte formulářové pole ve [formulářích](/mv-design-system/guidelines/forms.html), které pomáhají lidem zadávat, vybírat a vyhledávat text. Textová pole se obvykle nacházejí ve formuláři, ale mohou také být součástí modálu, vyhledávání nebo karty. Typy běžného zadávání textu zahrnují uživatelská jména, popisy, adresy URL, e-maily.
 
-Při určivání délky formulářového pole musíme brát v potaz maximální možný počet znaků, který bude uživatel do pole zadávat.
+Při určování délky formulářového pole musíme brát v potaz maximální možný počet znaků, který bude uživatel do pole zadávat.
 
 ![Popis částí formulářového pole](/mv-design-system/images/input.png "Formulářové pole")
 
-1. Označení (Label) - Krátké označení, které by mělo uvést jaké informace se mají do pole vyplnit. Zrovnáváme doleva.
+1. Označení (Label) - Krátké označení, které by mělo uvést jaké informace se mají do pole vyplnit. Zarovnáváme doleva.
 2. Pole pro vyplnění (Input area)  - Místo kam uživatelé vkládají text.
-3. Zástupný text (Placeholder text) - Dává informaci jak by pole mělo být používáno (např. "Začněte psát"). Používejte pouze tam, kde je třeba objasnění, snažte se jej nepoužívat nadměrně.
+3. Zástupný text (Placeholder text) - Dává informaci, jak by pole mělo být používáno (např. "Začněte psát"). Používejte pouze tam, kde je třeba objasnění, snažte se jej nepoužívat nadměrně.
 
 
 ## Užitečné odkazy
