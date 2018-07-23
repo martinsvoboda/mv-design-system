@@ -18,7 +18,7 @@ Všechny formuláře se skládají ze 6 prvků:
 5. Akce (Action) - Umožnit uživatelům odeslat formulář.
 6. Validace (Validation) - Zajišťuje, aby údaje odeslané uživatelem odpovídaly přijatelným parametrům.
 
-(/mv-design-system/images/form_schema.png)
+![Schéma formulářových prvků](/mv-design-system/images/form_schema.png)
 
 ## Logika formulářových prvků
 
@@ -32,7 +32,7 @@ Všechny formuláře se skládají ze 6 prvků:
 
 U polí, ve kterých je požadován jediný výběr a existuje mnoho možností, zvážit použití prvku [Rozbalovací seznam (Select box)](/mv-design-system/components/selectbox.html).
 
-(/mv-design-system/images/schema_inputy.png)
+![Schéma použítí formulářových prvků](/mv-design-system/images/schema_inputy.png)
 
 ## Obecná pravidla
 
