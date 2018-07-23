@@ -2,7 +2,7 @@
 title: Tlačítka
 layout: component-detail
 group: components
-description: Tlačítka uživatelé používají pro spuštění akce.
+description: Tlačítka uživatelé používají pro spuštění akce. Pokud chceme do stránky vložit pouhý odkaz na statickou stránku v rámci webu nebo externí odkaz, je ve většině případů lepší použít [odkaz](/mv-design-system/components/link.html).
 status: Complete
 variations:
 - title: Typy tlačítek
@@ -37,7 +37,7 @@ Tlačítka můžeme používat v několika různých velikostech. Pro každou si
 | Normal                | Standardní velikost, se kterou si vystačíte ve většině případů. | 
 | Large                 | Vhodné především pro landing-pages s cílem provedení konverze (např. registrace do portálu, spočítání důchodu, apod.) | 
 
-## Disable state
+## Neaktivní stav
 
 Užíváme tam, kde uživatel nemá povolenou danou akci nebo v případě, že se nacházíme přímo na stránce dané akce.
 
