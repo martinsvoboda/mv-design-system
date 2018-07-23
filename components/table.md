@@ -1,5 +1,5 @@
 ---
-title: Tabulka
+title: Tabulky
 permalink: "/components/tables.html"
 layout: component-detail
 group: components
