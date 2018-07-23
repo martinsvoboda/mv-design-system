@@ -14,9 +14,6 @@ variations:
 - title: Sekundární tlačítka
   description: Tlačítko sekundární akce v různých velikostech.
   pattern: button/button-secondary.html
-- title: Terciární tlačítka
-  description: Tlačítko terciární akce v různých velikostech. Doporučená je menší velikost.
-  pattern: button/button-terciary.html
 ---
 
 
@@ -28,7 +25,6 @@ Existuje několik druhů tlačítek, které se používají lyší v kontextu po
 | ----------------------|------------------------------------------------------------------------------|
 | Primární              | Používáme pro spuštění primární akce jako např. vyhledávání, napsání datové zprávy, nahrání nového dokumentu atd... Mělo by bát pouze jednou na stránce. | 
 | Sekundární            | Používáme pro sekundární akce jako např. tisk datové zprávy, zobrazení dalšího obsahu apod. | 
-| Terciární tlačítko    | Používáme na stránkách s velkým množstvím akcí, kde je potřeba odstupňovat více úrovní. Doporučené je použití ve velikosti "SMALL". | 
 
 
 ## Velikosti tlačítek
@@ -37,7 +33,7 @@ Tlačítka můžeme používat v několika různých velikostech. Pro každou si
 
 | Velikost              | Použití                                                                    |
 | ----------------------|------------------------------------------------------------------------------|
-| Small                 | Používáme především pro terciární tlačítka nebo tam, kde není dostatek prostoru pro umístění tlačítka normální velikosti. | 
+| Small                 | Používáme především tam, kde není dostatek prostoru pro umístění tlačítka normální velikosti. | 
 | Normal                | Standardní velikost, se kterou si vystačíte ve většině případů. | 
 | Large                 | Vhodné především pro landing-pages s cílem provedení konverze (např. registrace do portálu, spočítání důchodu. apod...) | 
 
