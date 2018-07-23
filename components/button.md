@@ -23,7 +23,7 @@ Existuje několik druhů tlačítek, které se používají v odlišném kontext
 
 | Typ                   | Použití                                                                    |
 | ----------------------|------------------------------------------------------------------------------|
-| Primární              | Používáme pro spuštění primární akce jako např. vyhledávání, napsání datové zprávy, nahrání nového dokumentu atd. Primární tlačítko by mělo být na stránce pouze jednou. | 
+| Primární              | Používáme pro spuštění primární akce jako např. vyhledávání, napsání datové zprávy, nahrání nového dokumentu atd. Primární tlačítko by mělo být použito na stránce pouze jednou. | 
 | Sekundární            | Používáme pro sekundární akce jako např. tisk datové zprávy, zobrazení dalšího obsahu apod. | 
 
 
