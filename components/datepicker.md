@@ -1,5 +1,5 @@
 ---
-title: Výběr data
+title: Výběry data
 permalink: "/date_pickers/datepicker.html"
 layout: component-detail
 group: components
