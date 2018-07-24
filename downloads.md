@@ -1,8 +1,6 @@
 ---
-title: Downloads
+title: Ke stažení
 layout: page
-description: Links to repositories, design templates, tools, and so on.
+description: Odkazy na repozitáře, šablony pro designéry, nástroje apod.
 ---
-
-Check out Carbon Design System’s wonderful tools and resources page for inspiration.
 
