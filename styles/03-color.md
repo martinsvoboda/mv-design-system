@@ -37,3 +37,4 @@ Barvy používané pro texty a typografické prvky. U textu je důležité dodr�
 {% include color-preview.html name="Text 3" hexcode="#2362a2" %}
 {% include color-preview.html name="Pozadí 1" hexcode="#ffffff" %}
 {% include color-preview.html name="Pozadí 2" hexcode="#2362a2" %}
+{% include color-preview.html name="Pozadí 2" hexcode="#f5f5f5" %}
