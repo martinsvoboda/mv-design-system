@@ -9,7 +9,7 @@ Tento manuál vám pomůže vytvářet weby tak, aby byly konzistentní s weby M
 
 ## Začínáme
 
-Průvodce pro designery a vývojáře, kteří používají MPSV Design system poprvé. [Více](/mv-design-system/getting-started/01-designers.html)
+Průvodce pro designery a vývojáře, kteří používají MV Design system poprvé. [Více](/mv-design-system/getting-started/01-designers.html)
 
 ## Pravidla
 
@@ -25,4 +25,4 @@ Knihovna všech součástí design systému, složená z pokynů pro kód, použ
 
 ## Ke stažení
 
-Užitečné seznam nástrojů a odkazů, které vám pomohou používat MPSV Design system. [Více](/mv-design-system/resources.html)
+Užitečné seznam nástrojů a odkazů, které vám pomohou používat MV Design system. [Více](/mv-design-system/resources.html)
